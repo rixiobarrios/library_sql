@@ -48,7 +48,7 @@ INSERT INTO books(title, publication_date, author_id) VALUES ('The Price of the 
 INSERT INTO books(title, publication_date, author_id) VALUES ('The Cross of Redemption: Uncollected Writings', 2010, 3);
 INSERT INTO books(title, publication_date, author_id) VALUES ('Jimmys Blues and Other Poems', 2014, 3);
 
--- Jean Luis Borges
+-- Jorge Luis Borges
 INSERT INTO books(title, publication_date, author_id) VALUES ('Fervor de Buenos Aires', 1923, 4);
 INSERT INTO books(title, publication_date, author_id) VALUES ('Inquisiciones', 1925, 4);
 INSERT INTO books(title, publication_date, author_id) VALUES ('Luna de Enfrente', 1925, 4);
